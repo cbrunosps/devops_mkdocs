@@ -1,9 +1,9 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: Nombre del sitio
+site_description: 'Aqui va la descripcion del sitio'
+site_author: 'SPS'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'CarlosBrunoE/devops_mkdocs'
+repo_url: 'https://github.com/CarlosBrunoE/devops_mkdocs'
 nav:
     - Home: index.md
 theme:
