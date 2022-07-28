@@ -1,40 +1,18 @@
-## Sample
+# Bienvenido a la wiki DevOps de SPS. TEst
 
-One more, finally. Or not? :)
+Para mayor información con gusto puedes visitarnos [spsolutions.com.mx](https://www.spsolutions.com.mx).
 
-Now:
+Probando algunos cambios. Nuevos cambios
+## Commands
 
-```
-$ some 
-```
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
-Look what she said:
+## Project layout
 
-> This is it!
-
-### Subtitle
-
-And now this:
-
-- One
-- Two
-- Three
-
-
-#### As well
-
-#### As this
-
-### Another
-
-[a link](https://aws.com)
-
-More?
-
-
-Can we now have `the build`?
-
-NOW!
-
-
-Not gonna work, is it?
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
